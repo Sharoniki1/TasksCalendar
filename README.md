@@ -1,4 +1,4 @@
-TasksCalendar
+#TasksCalendar
 This application is intended for adding to-tos to a calendar for reminders.
 
 ![loginView](https://github.com/Sharoniki1/TasksCalendar/assets/68810288/f60d186d-8adb-44f4-8901-2de4da3c255b)
@@ -11,7 +11,7 @@ This application is intended for adding to-tos to a calendar for reminders.
 ![afterClickOnAddTaskButton](https://github.com/Sharoniki1/TasksCalendar/assets/68810288/ea04d03e-a8cc-4334-bd6a-3bfae1eb0a44) ![afterAddingTaskToCalendar](https://github.com/Sharoniki1/TasksCalendar/assets/68810288/6f72d45b-50c8-4175-b0d3-54b632ca6628)
 ![firebaseRealtimeDatabaseUpdate](https://github.com/Sharoniki1/TasksCalendar/assets/68810288/77f0d9fe-5dc6-4b24-a78b-e0363c058f7e)
 
-Description
+#Description
 When the application opens, a login window appears. An email or a google authentication is available.
 After login in, there is a switch to calendar.
 In calendar, after clicking on specific date there is an "Add Task" option that leads to a sheet with a box to fill in a new task and a time picker.
